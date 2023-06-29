@@ -52,4 +52,4 @@ bash ./login.sh -i eno3 -u xxxxx -p xxxxx -t 2 -l enable -v enable
 
 ## 其他
 
-2023.06.29 校园网登录页面加上了 https，登录页面改成了 https://xha.ouc.edu.cn，不过不影响原来 192.168.101.201 登录
+2023.06.29 校园网登录页面加上了 https，登录页面改成了 https://xha.ouc.edu.cn ，不过不影响原来的 192.168.101.201 登录
