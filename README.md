@@ -37,7 +37,7 @@ bash ./login.sh -i eno3 -u xxxxx -p xxxxx -t 2 -l enable -v enable
 ```shell
 */10 * * * * /opt/auto_login/login.sh -i eno3 -t 2 -v enable
 ```
-
+（指定网卡需要root权限执行脚本，否则可能出现连接超时的情况）
 
 ## Python 脚本
 
